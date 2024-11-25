@@ -1,0 +1,4 @@
+std::cout: For printing output to the console.
+std::cin: For taking input from the user.
+std::endl: For adding a newline and flushing the output buffer.
+std::cerr: For printing error messages.
